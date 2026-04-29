@@ -1,1 +1,2 @@
-linea 1 en el remoto origin
+linea 1 de la rama origin
+linea 1 en local
